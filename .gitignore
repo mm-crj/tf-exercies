@@ -128,4 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-# Regression/California\ housing/forest_model.pkl
+#model data
+.pkl
+.joblib
