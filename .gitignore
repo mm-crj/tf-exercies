@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 #model data
-.pkl
-.joblib
+*.pkl
+*.joblib
